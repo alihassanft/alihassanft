@@ -9,7 +9,7 @@ I'm a passionate developer who loves building cool stuff and solving problems. W
 Let's connect! Feel free to reach out to me on these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/alihassanft) 💼
-- [Twitter](https://twitter.com/yourhandle) 🐦 (replace with your actual Twitter handle)
+-- [Twitter](https://twitter.com/yourhandle) 🐦 (replace with your actual Twitter handle)-->
 - [Portfolio Website](https://yourportfolio.com) 🌍 (replace with your actual portfolio link)
 
 ---
