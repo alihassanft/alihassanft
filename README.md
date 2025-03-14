@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer diving into the world of code, 
 ## 🚀 About Me
 - 💻 **Backend Developer** | Problem Solver | Tech Enthusiast
 - 🌍 Based in **Karachi, Pakistan**
-- 📫 Reach me at: **alihassanft@gmail.com**
+- 📫 Reach me at: **alihassanftt@gmail.com**
 - 🌱 Currently learning: **Go (Golang)**
 
 ---
