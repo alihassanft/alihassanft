@@ -1,4 +1,7 @@
-# 👋 Hey there! I'm Ali Hassan
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Ali+Hassan;Backend+Dev+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub! I'm a passionate developer diving into the world of code, technology, and innovation.
 
@@ -6,9 +9,9 @@ Welcome to my GitHub! I'm a passionate developer diving into the world of code, 
 
 ## 🚀 About Me
 - 💻 **Backend Developer** | Problem Solver | Tech Enthusiast
-- 🌍 Based in **Karachi, Pakistan**
-- 📫 Reach me at: **alihassanftt@gmail.com**
-- 🌱 Currently learning: **Go (Golang)**
+- 🌍 **Location**: Karachi, Pakistan
+- 📫 **Email**: alihassanftt@gmail.com
+- 🌱 **Currently Exploring**: Go (Golang)
 
 ---
 
@@ -31,6 +34,15 @@ Welcome to my GitHub! I'm a passionate developer diving into the world of code, 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+---
+## 🌟 Coding Momentum
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassanft&theme=highcontrast&hide_border=true&ring=00ADD8&fire=F05032&currStreakLabel=00ADD8" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/w/alihassanft/alihassanft?color=green&style=for-the-badge&label=Weekly+Commits" alt="Weekly Commits" />
+  <img src="https://img.shields.io/github/last-commit/alihassanft/alihassanft?style=for-the-badge&color=blue" alt="Last Commit" />
+</p>
 
 ---
 
@@ -40,43 +52,33 @@ Welcome to my GitHub! I'm a passionate developer diving into the world of code, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassanft&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 📈 My Coding Journey
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassanft&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/alihassanft/alihassanft?color=green&style=flat-square" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/followers/alihassanft?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</p>
 
 ---
 
-## 🔗 Connect with Me
+## 🎯 Let’s Build Something Awesome!
+I’m always open to learning, collaborating, and discussing new ideas. Feel free to check out my repositories, contribute, or reach out! 🚀
+
+---
+
+## 🔗 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/alihassanft"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/alihassanft"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@TechMediaForum"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
 
 ## 💡 Code Snapshot
-Here’s something truly unique—a "Code Haiku" generator that crafts poetic lines from tech terms:
 
 ```python
 import random
 
-def code_haiku():
-    line1 = ["Code flows", "Bytes dance", "Lines weave"]
-    line2 = ["through my mind", "in the cloud", "with logic tight"]
-    line3 = ["Bugs fade away", "Servers hum low", "Dreams take flight"]
-    
-    return "\n".join([
-        random.choice(line1) + " softly now",
-        random.choice(line2) + ", unseen worlds",
-        random.choice(line3) + "—code is art"
-    ])
+quotes = [
+    "Code with passion, deploy with confidence.",
+    "Backend is where the real magic happens!",
+    "Debugging is just detective work in a crime you committed."
+]
 
-# Generate a random tech-inspired haiku
-print(code_haiku())
+print(f"💡 {random.choice(quotes)}")
+
