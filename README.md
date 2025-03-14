@@ -62,15 +62,21 @@ Welcome to my GitHub! I'm a passionate developer diving into the world of code, 
 ---
 
 ## 💡 Code Snapshot
-Here’s a unique and creative snippet I crafted—a mini "digital DNA" generator:
+Here’s something truly unique—a "Code Haiku" generator that crafts poetic lines from tech terms:
 
 ```python
-def generate_dna(length=10, seed="Ali"):
-    import hashlib
-    # Use a seed (like my name) to create a unique yet repeatable sequence
-    base = hashlib.md5(seed.encode()).hexdigest()
-    dna = "".join("ATCG"[int(c, 16) % 4] for c in base[:length])
-    return f"Digital DNA: {dna}"
+import random
 
-# Generate my unique "DNA" sequence
-print(generate_dna(12, "AliHassan"))
+def code_haiku():
+    line1 = ["Code flows", "Bytes dance", "Lines weave"]
+    line2 = ["through my mind", "in the cloud", "with logic tight"]
+    line3 = ["Bugs fade away", "Servers hum low", "Dreams take flight"]
+    
+    return "\n".join([
+        random.choice(line1) + " softly now",
+        random.choice(line2) + ", unseen worlds",
+        random.choice(line3) + "—code is art"
+    ])
+
+# Generate a random tech-inspired haiku
+print(code_haiku())
